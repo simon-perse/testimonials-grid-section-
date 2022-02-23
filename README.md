@@ -6,7 +6,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ## Summary
 Quick practice challenge to brush up on Grid and Flexbox fundamentals.  I limited myself to CSS features that have at least 95% browser support.
--[Solution URL](https://simon-perse.github.io/testimonials-grid-section-/)
+[Solution URL](https://simon-perse.github.io/testimonials-grid-section-/)
 
 ### Built with
 
