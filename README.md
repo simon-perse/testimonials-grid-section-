@@ -5,15 +5,8 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 ![Design preview for the Testimonials grid section coding challenge](./design/desktop-preview.jpg)
 
 ## Summary
-
-Practice challange focusing on Grid and Flexbox.
-
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
+Quick practice challenge to brush up on Grid and Flexbox fundamentals.  I limited myself to CSS features that have at least 95% browser support.
+- Live Site URL: [Add live site URL here](https://simon-perse.github.io/testimonials-grid-section-/)
 
 ### Built with
 
@@ -21,6 +14,3 @@ Practice challange focusing on Grid and Flexbox.
 - CSS 
 - Flexbox
 - CSS Grid
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
