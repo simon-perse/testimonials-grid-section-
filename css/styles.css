@@ -1,7 +1,7 @@
 @font-face {
   font-family: "Barlow";
-  src: url('./font/barlow/Barlow-SemiBold.woff2') format('woff2'),
-    url('./font/barlow/Barlow-Medium.woff2') format('woff2'); 
+  src: url('././font/barlow/Barlow-SemiBold.woff2') format('woff2'),
+    url('././font/barlow/Barlow-Medium.woff2') format('woff2'); 
 }
 
 * {
